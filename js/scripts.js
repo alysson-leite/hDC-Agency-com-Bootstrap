@@ -156,7 +156,7 @@ $(document).ready(function(){
             scrollTo = aboutSection
         }else if(btnId == 'services-menu'){
             scrollTo = servicesSection
-        }else if(btnId == 'tean-menu'){
+        }else if(btnId == 'team-menu'){
             scrollTo = teamSection
         }else if(btnId == 'portfolio-menu'){
             scrollTo = portfolioSection
